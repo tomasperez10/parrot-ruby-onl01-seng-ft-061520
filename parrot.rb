@@ -9,4 +9,4 @@ end
 def parrot(phrase)
   puts phrase
 end
-return parrot(phrase)
+return phrase
