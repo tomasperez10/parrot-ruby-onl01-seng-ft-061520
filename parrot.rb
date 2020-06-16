@@ -7,4 +7,6 @@ def parrot
 end
 
 def parrot(phrase)
-  puts 
+  puts phrase
+  return phrase
+end
